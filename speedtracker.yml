@@ -69,7 +69,7 @@ wptKey: "2d50c78d857b0950e76d627d83d83472b19e523979b22a6aa078b6d3b467509d706d"
 #alerts:
 #  emailAlert:
 #    type: "email"
-#    recipients: ["maciej.zacharski@euro.com.pl"]
+#    recipients: ["011fc7d68172431eb03a392ec8c9682dc99e427f75fe2833ac34f2da"]
 #  otherEmailAlert:
 #    type: "email"
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
